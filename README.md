@@ -1,6 +1,11 @@
 # NLW Return
 Projeto desenvolvido na Trilha Impulse do NLW Return
 
+![GitHub language count](https://img.shields.io/github/languages/count/andersondev96/nlw_return?color=blue)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/andersondev96/nlw_return?color=blue)
+![GitHub repo size](https://img.shields.io/github/repo-size/andersondev96/nlw_return?color=blue)
+![GitHub](https://img.shields.io/github/license/andersondev96/nlw_return?color=blue)
+
 [Sobre o Projeto](#-sobre-o-projeto) | [Tecnologias](#-tecnologias) | [Layout](#-layout) | [Como executar a aplicação](#-como-executar-a-aplicação) |
  [Como contribuir](#-como-contribuir) | [Licença](#-licença) | [Autor](#-autor)
 
